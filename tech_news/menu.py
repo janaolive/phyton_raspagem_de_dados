@@ -27,7 +27,7 @@ def choice_3():
 
 
 def choice_4():
-    category = input( "Digite a categoria:")
+    category = input("Digite a categoria:")
     return search_by_category(category)
 
 
